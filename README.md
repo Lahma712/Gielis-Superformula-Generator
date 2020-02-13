@@ -24,4 +24,6 @@ The 6 values are:
 
 ![img](https://imgur.com/mMcv9wB.png)
 
+![img](https://imgur.com/6tWbFOb.png)
+
 ![img](https://imgur.com/YZi2LlI.png)
