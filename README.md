@@ -20,6 +20,8 @@ The 8 values are:
 
 <b>Shapes (made with program, a=1 and b=1): </b>
 
+You can chose the line color as well as the fill color.
+
 ![img](https://imgur.com/9VUoZxR.png)
 
 ![img](https://imgur.com/fZaTd4G.png)
