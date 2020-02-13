@@ -4,12 +4,12 @@ import getpass
 host = getpass.getuser()
 
 k = int(input("Number of rounds (k*pi): "))
-m = float(input("m: "))
-n1 = float(input("n1 = "))
-n2 = float(input("n2 = "))
-n3 = float(input("n3 = "))
-a = float(input("a = "))
-b = float(input("b = "))
+m = eval(input("m: "))
+n1 = eval(input("n1 = "))
+n2 = eval(input("n2 = "))
+n3 = eval(input("n3 = "))
+a = eval(input("a = "))
+b = eval(input("b = "))
 color = input("color (red/blue/yellow.../hexadecimal value): ")
 print("\nA .png file is saved to your desktop")
 
