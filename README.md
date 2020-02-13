@@ -24,7 +24,7 @@ You can chose the line color as well as the fill color.
 
 ![img](https://imgur.com/9VUoZxR.png)
 
-![img](https://imgur.com/fZaTd4G.png)
+![img](https://imgur.com/oOA8gac.png)
 
 ![img](https://imgur.com/hjLHw4M.png)
 
