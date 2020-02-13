@@ -26,7 +26,7 @@ You can chose the line color as well as the fill color.
 
 ![img](https://imgur.com/oOA8gac.png) m=1/6, n1=n2=n3=0.3, k=2
 
-![img](https://imgur.com/hjLHw4M.png)
+![img](https://imgur.com/hjLHw4M.png) m=19/6, n1=n2=n3=0.3, k=6
 
 ![img](https://imgur.com/HCIufb8.png)
 
