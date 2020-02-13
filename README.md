@@ -24,7 +24,7 @@ The 8 values are:
 
 ![img](https://imgur.com/fZaTd4G.png)
 
-![img](https://imgur.com/s13a9BF.png)
+![img](https://imgur.com/hjLHw4M.png)
 
 ![img](https://imgur.com/HCIufb8.png)
 
