@@ -16,7 +16,7 @@ The 6 values are:
 
 
 
-<b>Images (rendered with program, a=1 and b=1): </b>
+<b>Images (made with program, a=1 and b=1): </b>
 
 ![img](https://imgur.com/XiD7rGS.png)
 
