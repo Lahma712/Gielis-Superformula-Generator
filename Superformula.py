@@ -18,3 +18,11 @@ with np.errstate(all='ignore'):
     r = abs(ro) ** (-1/n1)
     y = r * np.sin(th)
     x = r * np.cos(th)
+
+
+ax = plot.subplot(111)
+ax.grid(False)
+ax.axis("off")
+ax.plot(x,y, color = color)
+plot.gca().set_aspect('equal')
+plot.savefig("c:\\Users\\{}\\Desktop\\image.png".format(host))
