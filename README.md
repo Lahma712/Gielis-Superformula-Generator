@@ -18,7 +18,7 @@ The 6 values are:
 
 <b>Images (made with program, a=1 and b=1): </b>
 
-![img](https://imgur.com/ywcN4SW.png)
+![img](https://imgur.com/fZaTd4G.png)
 
 ![img](https://imgur.com/lF2Y6nY.png)
 
