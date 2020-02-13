@@ -2,7 +2,8 @@
 
 This is a Gielis superformula generator made with Matplotlib. You can enter 6 values and generate a random geometric shape (curve) 
 The 6 values are:
-- m (=m1=m2 see formula below)
+- m1
+- m2
 - n1
 - n2
 - n3
