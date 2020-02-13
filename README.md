@@ -11,7 +11,7 @@ The 6 values are:
 
 Formula: 
 
-![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/8071dcb3a49044816f7885114c2335d805d7ad30.svg)
+![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/8071dcb3a49044816f7885114c2335d805d7ad30.png)
 
 
 <b>Images (a=1 and b=1) </b>
