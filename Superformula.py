@@ -3,7 +3,7 @@ import numpy as np
 import getpass
 host = getpass.getuser()
 
-k = int(input("Number of rounds (k*pi): "))
+k = int(input("Number of rounds (2*k*pi): "))
 m1 = eval(input("m1: "))
 m2 = eval(input("m2: "))
 n1 = eval(input("n1 = "))
@@ -14,7 +14,7 @@ b = eval(input("b = "))
 color = input("color (red/blue/yellow.../hexadecimal value): ")
 print("\nA .png file is saved to your desktop")
 
-th = np.arange(0,(k*np.pi), 0.0001)
+th = np.arange(0,(2*k*np.pi), 0.0001)
 with np.errstate(all='ignore'):
     r = (abs(np.cos((m1*th)/4)/a)**n2 + abs(np.sin((m2*th)/4)/b)**n3) ** (-1/n1)
     y = r * np.sin(th)
