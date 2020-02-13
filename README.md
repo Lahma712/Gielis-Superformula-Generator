@@ -18,7 +18,7 @@ You can enter 8 values and generate a random geometric shape (curve). The 8 valu
 
 
 
-<b>Shapes (made with program, a=1 and b=1): </b>
+<b>Shapes (made with program): </b>
 
 You can chose the line color as well as the fill color.
 
