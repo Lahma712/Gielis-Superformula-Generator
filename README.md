@@ -22,7 +22,7 @@ The 6 values are:
 
 ![img](https://imgur.com/lF2Y6nY.png)
 
-![img](https://imgur.com/mMcv9wB.png)
+![img](https://imgur.com/s13a9BF.png)
 
 ![img](https://imgur.com/6tWbFOb.png)
 
