@@ -22,13 +22,17 @@ You can enter 8 values and generate a random geometric shape (curve). The 8 valu
 
 You can chose the line color as well as the fill color.
 
-![img](https://imgur.com/9VUoZxR.png) m=13/6,n1=n2=n3=0.3,k=6, a=b=1
+![img](https://imgur.com/9VUoZxR.png) 
+ m=13/6,n1=n2=n3=0.3,k=6, a=b=1
 
-![img](https://imgur.com/oOA8gac.png) m=1/6, n1=n2=n3=0.3, k=2, a=b=1
+![img](https://imgur.com/oOA8gac.png) 
+ m=1/6, n1=n2=n3=0.3, k=2, a=b=1
 
-![img](https://imgur.com/hjLHw4M.png) m=19/6, n1=n2=n3=0.3, k=6, a=b=1
+![img](https://imgur.com/hjLHw4M.png) 
+ m=19/6, n1=n2=n3=0.3, k=6, a=b=1
 
-![img](https://imgur.com/HCIufb8.png) m1= 8, m2=40, n1=-0.2, n2=n3=a=b=k=1
+![img](https://imgur.com/HCIufb8.png) 
+ m1= 8, m2=40, n1=-0.2, n2=n3=a=b=k=1
 
 ![img](https://imgur.com/QSs37YJ.png)
 
