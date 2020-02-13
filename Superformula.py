@@ -4,7 +4,7 @@ import getpass
 from PIL import Image
 host = getpass.getuser()
 
-k = int(input("Number of rounds (k*pi): "))
+k = int(input("Number of rounds (2*k*pi): "))
 m1 = eval(input("m1: "))
 m2 = eval(input("m2: "))
 n1 = eval(input("n1 = "))
