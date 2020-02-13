@@ -3,7 +3,8 @@
 This is a Gielis superformula generator made with Matplotlib. You can enter 7 values and generate a random geometric shape (curve) 
 The 7 values are:
 - k (number of turns 2*k*pi)
-- m (=m1=m2 see formula below)
+- m1
+- m2
 - n1
 - n2
 - n3
