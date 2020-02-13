@@ -1,7 +1,7 @@
 # Gielis-Superformula-Generator
 
 This is a Gielis superformula generator made with Matplotlib. You can enter 7 values and generate a random geometric shape (curve) 
-The 7 values are:
+The 8 values are:
 - k (number of turns 2*k*pi)
 - m1
 - m2
