@@ -1,6 +1,6 @@
 # Supershape-Generator
 
-This is a supershape generator made with Matplotlib and the superformula proposed by Johan Gielis. 
+This is a supershape generator made with Matplotlib. It uses the superformula proposed by Johan Gielis. 
 You can enter 8 values and generate a random geometric shape (curve). The 8 values are:
 - k (number of turns 2*k*pi)
 - m1
