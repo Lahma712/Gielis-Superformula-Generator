@@ -20,7 +20,7 @@ The 8 values are:
 
 <b>Shapes (made with program, a=1 and b=1): </b>
 
-![img](https://imgur.com/QzMHL5i.png)
+![img](https://imgur.com/9VUoZxR.png)
 
 ![img](https://imgur.com/fZaTd4G.png)
 
