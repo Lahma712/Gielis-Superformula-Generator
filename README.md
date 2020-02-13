@@ -11,7 +11,7 @@ You can enter 8 values and generate a random geometric shape (curve). The 8 valu
 - a
 - b
 
-<b>Formula (by Gielis):</b> 
+<b>Formula (by Johan Gielis):</b> 
 
 ![equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/8071dcb3a49044816f7885114c2335d805d7ad30)
 
