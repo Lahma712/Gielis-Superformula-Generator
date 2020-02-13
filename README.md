@@ -28,6 +28,6 @@ The 8 values are:
 
 ![img](https://imgur.com/HCIufb8.png)
 
-![img](https://imgur.com/YZi2LlI.png)
+![img](https://imgur.com/qk0nb8i.png)
 
 ![img](https://imgur.com/FjQr2qO.png)
